@@ -6,3 +6,5 @@ First GitHub repository
 :coffee:
 
 Коммит для отправки SSH
+
+commit 2 with UBUNTU
